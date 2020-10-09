@@ -10,7 +10,10 @@ pom.xml.asc
 /.nrepl-port
 .hgignore
 .hg/
-/CHANGELOG.md
+/lib/
+.cpcache/
+/.clj-kondo/
+/.cider-repl-history
 /.idea/
-/fwpd_cursive.iml
-/LICENSE
+/.lsp/
+*.iml
